@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: turniry-kripto-kazino.github.io
+Sitemap: https://turniry-kripto-kazino.github.io/sitemap.xml
